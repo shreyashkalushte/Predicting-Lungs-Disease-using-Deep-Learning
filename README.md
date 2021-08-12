@@ -1,4 +1,4 @@
-# Predicting-Lungs-Disease-using-Deep-Learning
+# Predicting Lungs Disease using Deep Learning
 
 Dataset - https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
